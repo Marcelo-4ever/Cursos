@@ -1,5 +1,5 @@
 # **Cursos p/ aprender Programação**
-Eu, como um pessoa que começou a aprender a programar esse ano, procurei o máximo de cursos possíveis para aprender python e com isso veio alguns outros cursos na bagagem. Decidi colocar esses cursos aqui caso alguém veja esse repositório e tenha uma direção sobre onde buscar conteúdo.
+Eu, como um pessoa que começou a aprender a programar esse ano, procurei o máximo de cursos possíveis para aprender python e com isso veio alguns outros cursos na bagagem. Decidi colocar esses cursos aqui caso alguém veja esse repositório ter uma direção sobre onde buscar conteúdo.
 
 ##
  
