@@ -3,8 +3,8 @@ Eu, como um pessoa que começou a aprender a programar esse ano, procurei o máx
 
 ##
  
-- [Cousera](https://www.coursera.org/) 
-- [Dio.me](https://www.dio.me/en) 
+- [Cousera](https://www.coursera.org/) | Cursos pagos e gratuitos | Conteúdo em inglês, mas com legendas | Certificado pago 
+- [Dio.me](https://www.dio.me/en) | Cursos e bootcamps pagos e gratuitos | Counteúdo em português | Certificado gratuito
 - [Recode](https://recode.org.br/) 
 - [Crehana](https://www.crehana.com/br/) 
 - [Eucapacito](https://www.eucapacito.com.br/) 
