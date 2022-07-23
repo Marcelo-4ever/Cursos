@@ -2,7 +2,33 @@
 Eu, como um pessoa que começou a aprender a programar esse ano, procurei o máximo de cursos possíveis para aprender python e com isso veio alguns outros cursos na bagagem. Decidi colocar esses cursos aqui caso alguém veja esse repositório ter uma direção sobre onde buscar conteúdo.
 
 ##
+
+| Site                                 | Informações                                                                            |
+|--------------------------------------|----------------------------------------------------------------------------------------|
+| [Cousera](https://www.coursera.org/) |  Cursos pagos e gratuitos \| Conteúdo em inglês, mas com legendas \| Certificado pago  |
+| [Dio.me](https://www.dio.me/en)      | Cursos e Bootcamps pagos e gratuitos \| Counteúdo em português \| Certificado gratuito |
+| Recode                               |                                                                                        |
+| Crehana                              |                                                                                        |
+| Eucapacito                           |                                                                                        |
+| Udacity                              |                                                                                        |
+| The odin project                     |                                                                                        |
+| Aptlearn.io                          |                                                                                        |
+| Microsoft                            |                                                                                        |
+| Google Techdevguide                  |                                                                                        |
+| OCW MIT                              |                                                                                        |
+| W3School                             |                                                                                        |
+| EDX                                  |                                                                                        |
+| Freecodecamp                         |                                                                                        |
+| Classcentral                         |                                                                                        |
+| IBM Training Free                    |                                                                                        |
+| KhanAcademy                          |                                                                                        |
+| Udemy                                |                                                                                        |
+| Hackr.io                             |                                                                                        |
+| Codeavengers                         |                                                                                        |
+| Hyperskill.org                       |                                                                                        |
  
+## 
+
 - [Cousera](https://www.coursera.org/) | Cursos pagos e gratuitos | Conteúdo em inglês, mas com legendas | Certificado pago 
 - [Dio.me](https://www.dio.me/en) | Cursos e bootcamps pagos e gratuitos | Counteúdo em português | Certificado gratuito
 - [Recode](https://recode.org.br/) 
