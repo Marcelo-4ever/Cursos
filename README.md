@@ -26,7 +26,7 @@ Eu, como um pessoa que começou a aprender a programar esse ano, procurei o máx
 | Hackr.io                             |                                                                                        |
 | Codeavengers                         |                                                                                        |
 | Hyperskill.org                       |                                                                                        |
- 
+| Codecademy                           |                                                                                        |
 ## 
 
 - [Cousera](https://www.coursera.org/) | Cursos pagos e gratuitos | Conteúdo em inglês, mas com legendas | Certificado pago 
