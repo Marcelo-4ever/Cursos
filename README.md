@@ -3,30 +3,30 @@ Eu, como um pessoa que começou a aprender a programar esse ano, procurei o máx
 
 ##
 
-| Site                                 | Informações                                                                            |
-|--------------------------------------|----------------------------------------------------------------------------------------|
-| [Cousera](https://www.coursera.org/) |  Cursos pagos e gratuitos \| Conteúdo em inglês, mas com legendas \| Certificado pago  |
-| [Dio.me](https://www.dio.me/en)      | Cursos e Bootcamps pagos e gratuitos \| Counteúdo em português \| Certificado gratuito |
-| Recode                               |                                                                                        |
-| Crehana                              |                                                                                        |
-| Eucapacito                           |                                                                                        |
-| Udacity                              |                                                                                        |
-| The odin project                     |                                                                                        |
-| Aptlearn.io                          |                                                                                        |
-| Microsoft                            |                                                                                        |
-| Google Techdevguide                  |                                                                                        |
-| OCW MIT                              |                                                                                        |
-| W3School                             |                                                                                        |
-| EDX                                  |                                                                                        |
-| Freecodecamp                         |                                                                                        |
-| Classcentral                         |                                                                                        |
-| IBM Training Free                    |                                                                                        |
-| KhanAcademy                          |                                                                                        |
-| Udemy                                |                                                                                        |
-| Hackr.io                             |                                                                                        |
-| Codeavengers                         |                                                                                        |
-| Hyperskill.org                       |                                                                                        |
-| Codecademy                           |                                                                                        |
+| Site                                                      | Conteúdo                                     | Idioma                   | Certificado          |
+|-----------------------------------------------------------|----------------------------------------------|--------------------------|----------------------|
+| [Cousera](https://www.coursera.org/)                      |           Cursos pagos e gratuitos           | Inglês, mas com legendas | Certificado pago     |
+| [Dio.me](https://www.dio.me/en)                           | Cursos e Bootcamps pagos e gratuitos         | Português pt-br          | Certificado gratuito |
+| [Recode](https://recode.org.br/)                          | Cursos gratuitos e Programas de qualificação | Português pt-bt          | Certificado gratuito |
+| [Crehana](https://www.crehana.com/br/)                    | Cursos pagos                                 | Português pt-br e outros | Certificado pago     |
+| [Eucapacito](https://www.eucapacito.com.br/)              |                                              |                          |                      |
+| [Udacity](https://www.udacity.com/)                       |                                              |                          |                      |
+| [The odin project](https://www.theodinproject.com/)       |                                              |                          |                      |
+| [Aptlearn.io](https://aptlearn.io/)                       |                                              |                          |                      |
+| [Microsoft](https://docs.microsoft.com/pt-br/learn/)      |                                              |                          |                      |
+| [Google Techdevguide](http://techdevguide.withgoogle.com) |                                              |                          |                      |
+| [OCW MIT](http://ocw.mit.edu)                             |                                              |                          |                      |
+| [W3School](http://w3schools.com)                          |                                              |                          |                      |
+| [EDX](http://edx.org)                                     |                                              |                          |                      |
+| [Freecodecamp](http://freecodecamp.org)                   |                                              |                          |                      |
+| [Classcentral](http://classcentral.com)                   |                                              |                          |                      |
+| [IBM Training Free](http://ibm.com/training/free)         |                                              |                          |                      |
+| [KhanAcademy](http://khanacademy.org)                     |                                              |                          |                      |
+| [Udemy](http://udemy.com)                                 |                                              |                          |                      |
+| [Hackr.io](http://hackr.io)                               |                                              |                          |                      |
+| [Codeavengers](http://codeavengers.com/jr)                |                                              |                          |                      |
+| [Hyperskill.org](https://hyperskill.org/tracks)           |                                              |                          |                      |
+
 ## 
 
 - [Cousera](https://www.coursera.org/) | Cursos pagos e gratuitos | Conteúdo em inglês, mas com legendas | Certificado pago 
